@@ -1,4 +1,2 @@
-# nathanwty.github.io
-blog
-thanks for mojombo 
-https://github.com/mojombo/mojombo.github.io
+# thanks for mojombo 
+# https://github.com/mojombo/mojombo.github.io
