@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first-post article/template
+title: template
 ---
 
 {{ page.title }}
@@ -9,4 +9,4 @@ title: My first-post article/template
 <p class="meta">22 Jun 2016 - HangZhou</p>
 
 
-正文
+main
